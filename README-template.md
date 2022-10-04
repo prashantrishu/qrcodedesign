@@ -57,3 +57,4 @@ Scrimba Flexbox free course
 
 ## Acknowledgments
 Went Solo and it worked this time.
+Special thanks to https://www.frontendmentor.io/profile/correlucas for the feedback.
